@@ -1,0 +1,62 @@
+*****************************************************************
+      SolidWorks Corporation - Informe de estado del procesador de IGES
+*****************************************************************
+=================================================================
+Información general
+=================================================================
+Enviando I.D. de producto de sistema  : Solid Edge
+Recibiendo I.D. de producto de sistema: Unknown
+Nombre de archivo                    : anclaje para base.igs
+Enviando sistema               :  By UGS Corp.
+Versión de preprocesador         : XPlus GENERIC/IGES 3.0
+Fecha de creación del archivo           : 20140326.084307
+Fecha de creación del modelo          : 20140326.084307
+Unidades                        : IN
+Escala espacial del modelo            : 1
+Autor                       : Author
+Organización                 : Title
+
+
+=================================================================
+Información de procesamiento de entidades
+=================================================================
+
+
+=================================================================
+Análisis de precisión del archivo de IGES:
+=================================================================
+  Número de dígitos significativos más frecuente:              14
+  Número de dígitos significativos más alto:                     14
+  Número de dígitos significativos promedio:                13.8043
+  Distancia máxima hasta el origen:                          3.93538
+  Distancia mínima hasta el origen:                          0.22698
+  Número de dígitos significativos efectivo:              13.9498
+
+
+=================================================================
+Resumen de entidades
+=================================================================
+-----------------------------------------------------------------
+Nombre de tipo                                         Número convertido
+---- ----                                         ----- ---------
+102  Composite curve                                 68        68
+126  Rational B-spline curve                        264       264
+128  Rational B-spline surface                       24        24
+142  Curve on a parametric surface                   34        34
+144  Trimmed parametric surface                      24        24
+314  Color definition                                24        24
+_________________________________________________________________
+
+
+=================================================================
+Resumen de resultados
+=================================================================
+Tipo de operación de SolidWorks                Número
+-----------------------                -----
+Operaciones sólidas1
+Operaciones de superficie0
+Operaciones de curvas/croquis0
+--------------------------------------------
+Hora de comienzo: miércoles, marzo 26, 2014 09:09:07
+Hora de finalización: miércoles, marzo 26, 2014 09:09:08
+Tiempo de procesamiento: 0 days, 00 hours, 00 mins, 01 secs

@@ -1,0 +1,56 @@
+Info:           Start_Modeler
+Info:     ========================
+Info: 
+Info: =================================================
+Info: Software Information
+Info: 
+Info: PARASOLID Version: 18.0.168
+Info: PSBodyshop Version: 8.0.111
+Info: SOLID EDGE Version: 19.00.00.66
+Info: Log file is written by GENERIC/IGES Library.
+Info: ============================================================
+Info: Iges Write Options
+Info: 
+Info: Export Flavor: None
+Info: ParIg_ConvSolid_Get: FASLE SolidAsFaces 
+Info: ParIg_ConvTrimmedFaces_Get: 1
+Info: ParIg_ConvFreeCurves_Get: 1
+Info: GetStartSection: Comment
+Info: ParIg_EOLcharLenForWrite_Get: 1
+Info: ParIg_WriteUnit_Get: INCH
+Info: ParIg_TransferAttrib_Get: 1
+Info: ParIg_WriteAsSplines_Get: 1
+Info: ParIg_WriteCurvesAsSplines_Get: 1
+Info: ParIg_TransferAttrib_Get: 1
+Info: ============================================================
+Info: Translation Process
+Info: 
+Info: 
+----------------------------IGES WRITE OPTIONS-------------------------------
+ 
+Info: Write Unit ID           :1                                                      
+Info: EndOFLine Char Len      :1                                                      
+Info: WriteSurf  As NURBs     :1                                                      
+Info: WriteCurve As NURBs     :1                                                      
+Info: Write Solids As MSBOs   :0                                                      
+Info: Write Solids As Sheets  :1                                                      
+Info: Write Solids As Wires   :0                                                      
+Info: Write Sheets As 144     :1                                                      
+Info: Write Sheets As 143     :0                                                      
+Info: Transfer Attributes     :1                                                      
+Info: Jama Flavor             :0                                                      
+Info: AutoCad Flavor          :0                                                      
+Info: Wire As Copious         :0                                                      
+Info: Write Tolerance(mm)     :0.0010000                                              
+Info: Write MSBO as Param     :1                                                      
+Info: 
+Total No. of Root  Entities   Written: 24
+
+Info: --------------------------------------------------------------------------------
+Info: 
+Info: Translation succeeded
+Info: Number of bodies in the Iges file: 1
+Info: =================================================
+Info: 
+Info:     ========================
+Info:           Stop_Modeler
